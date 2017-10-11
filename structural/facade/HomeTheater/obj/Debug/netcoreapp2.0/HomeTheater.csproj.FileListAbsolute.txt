@@ -1,0 +1,10 @@
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/bin/Debug/netcoreapp2.0/HomeTheater.deps.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/bin/Debug/netcoreapp2.0/HomeTheater.runtimeconfig.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/bin/Debug/netcoreapp2.0/HomeTheater.runtimeconfig.dev.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/bin/Debug/netcoreapp2.0/HomeTheater.dll
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/bin/Debug/netcoreapp2.0/HomeTheater.pdb
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/obj/Debug/netcoreapp2.0/HomeTheater.csproj.CoreCompileInputs.cache
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/obj/Debug/netcoreapp2.0/HomeTheater.AssemblyInfoInputs.cache
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/obj/Debug/netcoreapp2.0/HomeTheater.AssemblyInfo.cs
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/obj/Debug/netcoreapp2.0/HomeTheater.dll
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/facade/HomeTheater/obj/Debug/netcoreapp2.0/HomeTheater.pdb

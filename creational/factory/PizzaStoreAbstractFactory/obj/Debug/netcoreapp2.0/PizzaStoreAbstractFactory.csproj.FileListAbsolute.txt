@@ -1,0 +1,10 @@
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/bin/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.deps.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/bin/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.runtimeconfig.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/bin/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.runtimeconfig.dev.json
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/bin/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.dll
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/bin/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.pdb
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/obj/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.csproj.CoreCompileInputs.cache
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/obj/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.AssemblyInfoInputs.cache
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/obj/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.AssemblyInfo.cs
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/obj/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.dll
+/Users/ftschopp/MyUp/Diseño De Sistemas/design-patterns-cs/factory/PizzaStoreAbstractFactory/obj/Debug/netcoreapp2.0/PizzaStoreAbstractFactory.pdb
