@@ -1,4 +1,4 @@
-﻿using System;
+﻿cdusing System;
 using MultipleSingleton.Singletons.Subclasses;
 
 namespace MultipleSingleton
